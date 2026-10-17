@@ -104,7 +104,7 @@ Depois, utilizei esse valor para comparar o desempenho com a meta de 50%, verifi
 ```text
 atividade-js-bootstrap/
 ├── index.html
-├── script.js
+├── app.js
 └── README.md
 ```
 
